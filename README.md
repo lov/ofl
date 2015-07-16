@@ -1,6 +1,6 @@
 # Open Fixture Library
 
-Proposal for an open fixture library format.
+Proposal for an open fixture library file format.
 
 ## Goal
 
