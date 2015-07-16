@@ -1,2 +1,8 @@
-# ofl
-Open Fixture Library
+# Open Fixture Library
+
+Proposal for an open fixture library format.
+
+## Goal
+
+To create an open, easy to use, lightweight, human readable file format that contains managing information about one or more fixtures.
+
